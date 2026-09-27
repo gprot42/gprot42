@@ -1,6 +1,6 @@
 <img src="boot2.gif" width="720" alt="Ghost Protocol VM booting">
 
-I've written a lot of software, some of what's published here i'd like to make it easy to access.
+I've written a lot of software, some of what's published here i'd like to highlight.
 - [neopad](https://github.com/gprot42/macos-neopad). Tabbed text editor for macOS.
 - [firefox for webos](https://github.com/gprot42/webos-firefox). Firefox ESR on LG webOS TVs.
 - [launch home for webos](https://github.com/gprot42/webos-launch-home). Fullscreen home screen for rooted LG webOS TVs.
