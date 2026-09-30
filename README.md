@@ -1,4 +1,4 @@
-<img src="boot2.gif" width="720" alt="Ghost Protocol VM booting">
+<img src="boot3.gif" width="720" alt="Ghost Protocol VM booting">
 
 I've written a lot of software, some of what's published here i'd like to highlight.
 - [neopad](https://github.com/gprot42/macos-neopad). Tabbed text editor for macOS.
